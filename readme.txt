@@ -13,3 +13,5 @@ test again.
 reating a new branch is quick and simple.
 test again.
 >>>>>>> feature
+
+add a new branch dev.
