@@ -6,4 +6,8 @@ Git append GPL.
 git has a  mutable index called stage.
 Git tracks changes.
 reating  a new branch is quick.
-reating a new branch is quick & simple.
+<<<<<<< HEAD
+reating a new branch is quick and simple.
+=======
+reating a new branch is quick and simple.
+>>>>>>> feature1
