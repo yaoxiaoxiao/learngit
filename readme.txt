@@ -14,6 +14,11 @@ Creating a new branch is quick and simple.
 test again.
 >>>>>>> feature
 
+<<<<<<< Updated upstream
 add a new branch dev.
 
 
+=======
+add a new branch dev .
+ fix bug,creeat branch ,stop current dev.
+>>>>>>> Stashed changes
